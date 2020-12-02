@@ -7,7 +7,10 @@ import players.RobotPlayer;
 
 import java.util.Scanner;
 
-
+/*
+* @author Ramachandra Rao alla
+*
+*/
 public class GameManager {
     public House house;
     public RouletteGame rouletteGame;
